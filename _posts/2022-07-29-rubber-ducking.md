@@ -24,4 +24,3 @@ Có một số cách mà tôi cũng hay thử như:
 - Nếu gặp vấn đề về Code, hãy gọi một ai đó ra ngồi cạnh bạn, cố giải thích cho họ hiểu các bước mà bạn đã thực hiện với code, mô tả đầu ra mong muốn và vấn đề mà bạn đang gặp phải.
 
 Hy vọng bài viết sẽ hữu ích với bạn.
-1
