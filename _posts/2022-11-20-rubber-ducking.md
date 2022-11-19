@@ -1,26 +1,18 @@
 ---
 layout: post
-title: Rubber Ducking – Kỹ thuật Debug thượng thừa
-subtitle: Rubber Ducking – Vịt Cao Su hay Rubber Duck Debugging, là một kỹ thuật debug được sử dụng trong kỹ nghệ phần mềm. Một thuật ngữ khá vui nhộn nhưng lại rất hữu ích khi bạn sử dụng. Nó sẽ giúp bạn giảm được cả tấn thời gian khi đối mặt với những vấn đề quanh dòng mã mà mình viết ra.
-cover-img: /assets/img/duck.jpeg
-thumbnail-img: /assets/img/duck.jpeg
-share-img: /assets/img/duck.jpeg
-tags: [technologies]
+title: Flake it till you make it
+subtitle: Excerpt from Soulshaping by Jeff Brown
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [books, test]
 ---
 
-Theo đinh nghĩa, Rubber Duck Debugging là một cách thức debug code đơn giản. Nó bắt nguồn từ một câu chuyện trong cuốn sách Pragmatic Programmer, về một anh chàng Coder luôn mang theo con Vịt Cao Su bên mình và giải thích từng dòng mã của anh ta cho con Vịt Cao Su ấy.
+Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
 
-Phương pháp xoay quanh ý tưởng này rất đơn giản, bạn cố gắng giải thích code của mình cho những vật vô tri, tỉ dụ con Vịt Cao Su. Điều này giúp bạn phá vỡ những vấn đề mà bạn đang cố hoàn thiện với dòng code của mình. Bằng cách này, bạn thoát ra khỏi khuôn suy nghĩ của bạn, và thực sự giải thích những gì đang xảy ra với code của bạn. Bặp cách lặp đi lặp lại kỹ thuật Rubber Ducking, lập trình viên có thể xử lý được vấn đề mà không cần phải Google nó.
+The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
 
-Lưu ý một chút, thay vì giải thích code của bạn với con Vịt Sao Su, bạn hoàn toàn có thể giải thích nó với đồng nghiệp hoặc bạn bè của bạn, những người có thể sẽ đưa ra lời khuyên hữu ích cho bạn nếu như họ đã từng gặp vấn đề tương tự. Bạn thực sự không biết ai đã gặp vấn đề tương tự chưa, nhưng hãy cố thử giải thích cho họ về cách hoạt động của code bạn viết ra.
+At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
 
-Nhìn chung, Vịt Cao Su là một thứ không có kinh nghiệm về code, giải thích cho nó hiểu cũng giống như bạn giải thích cho một người không biết gì về viết mã. Việc giải thích này giúp cho bạn vận dụng những từ ngữ dễ hiểu, phi kỹ thuật, những liên tưởng tới vấn đề và tránh những chi tiết không cần thiết khi xử lý vấn đề (Ví dụ quá tập trung vào 1 thuật ngữ chuyên ngành).
-
-Nào bây giờ hãy cùng thực hành, giải thích cho con Vịt Cao Su của bạn hiểu về đoạn code mà bạn đang viết và vấn đề bạn đang gặp phải. Nếu không có Vịt, hãy thử giải thích với cái cây trên bàn của bạn hoặc Comtor trong dự án của bạn. Tôi đã dừng dành gần 1 tiếng đồng hồ để giải thích về dự án và các thuật ngữ dùng cho việc coding cho một bạn Comtor chưa có kiến thức gì về IT.
-
-Có một số cách mà tôi cũng hay thử như:
-
-- Khi không thể giải quyết được vấn đề, hãy đi ra ngoài làm cốc trà đá, hoặc chợp mắt 1 chút.
-- Nếu gặp vấn đề về Code, hãy gọi một ai đó ra ngồi cạnh bạn, cố giải thích cho họ hiểu các bước mà bạn đã thực hiện với code, mô tả đầu ra mong muốn và vấn đề mà bạn đang gặp phải.
-
-Hy vọng bài viết sẽ hữu ích với bạn.
+A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+1
