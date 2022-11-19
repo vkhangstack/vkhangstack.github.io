@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rubber Ducking – Kỹ thuật Debug thượng thừa
-subtitle: Rubber Ducking – Vịt Cao Su hay Rubber Duck Debugging, là một kỹ thuật debug được sử dụng trong kỹ nghệ phần mềm. Một thuật ngữ khá vui nhộn nhưng lại rất hữu ích khi bạn sử dụng. Nó sẽ giúp bạn giảm được cả tấn thời gian khi đối mặt với những vấn đề quanh dòng mã mà mình viết ra.
+subtitle: Kỹ thuật đỉnh cao trong debug phần mềm.
 cover-img: /assets/img/duck.jpeg
 thumbnail-img: /assets/img/duck.jpeg
 share-img: /assets/img/duck.jpeg
